@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152660245659",
+    "project_id": "money-15575",
+    "storage_bucket": "money-15575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152660245659:android:47c5343ed6481e2ea39a3e",
+        "android_client_info": {
+          "package_name": "com.bliss.csc.yeoulcom_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152660245659-tq8lo2l5udtlagvol8cuqglv70ibs779.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWNb4hjEXcAcuYndKAL6ToPZj18uf1gps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152660245659-tq8lo2l5udtlagvol8cuqglv70ibs779.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
